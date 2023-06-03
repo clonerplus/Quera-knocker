@@ -11,19 +11,19 @@
 | 2   | 277       | [Hexadecimal numbers](https://github.com/clonerplus/Quera-knocker/blob/main/university/HexadecimalNumbers.cpp)                                    |             |
 | 3   | 279       | [Revenge from strict TA](https://github.com/clonerplus/Quera-knocker/blob/main/university/RevengeOnHardTA.py)                                     |             |
 | 4   | 280       | [Complex calculation](https://github.com/clonerplus/Quera-knocker/blob/main/university/ComplexCalculation.cpp)                                    |             |
-| 5   | 281       | [Pythagorean numbers]()                                                                                                                           |             |
-| 6   | 282       | [To be perfect or not]()                                                                                                                          |             |
+| 5   | 281       | [Pythagorean numbers](https://github.com/clonerplus/Quera-knocker/blob/main/university/PythagoreanNumbers.java)                                   |             |
+| 6   | 282       | [To be perfect or not](https://github.com/clonerplus/Quera-knocker/blob/main/university/ToBePerfectOrNot.java)                                    |             |
 | 7   | 283       | [Hollow square](https://github.com/clonerplus/Quera-knocker/blob/main/university/HollowSquare.cpp)                                                |             |
 | 8   | 287       | [In search of father](https://github.com/clonerplus/Quera-knocker/blob/main/university/InSearchOfDad.cpp)                                         |             |
 | 9   | 291       | [Common sub-string](https://github.com/clonerplus/Quera-knocker/blob/main/university/sharedSubString.cpp)                                         |             |
-| 11  | 293       | Prime numbers                                                                                                                                     |             |
-| 12  | 294       | Second degree equation                                                                                                                            |             |
+| 11  | 293       | [Prime numbers](https://github.com/clonerplus/Quera-knocker/blob/main/university/primeNumbers.py)                                                 |             |
+| 12  | 294       | [Second degree equation](https://github.com/clonerplus/Quera-knocker/blob/main/university/secondDegreeEquation.py)                                |             |
 | 13  | 296       | [Special box](https://github.com/clonerplus/Quera-knocker/blob/main/university/SpecialSquare.cpp)                                                 |             |
 | 14  | 297       | [Exponential function](https://github.com/clonerplus/Quera-knocker/blob/main/university/Exponentioal_function.cpp)                                |             |
 | 15  | 298       | [Prime factors](https://github.com/clonerplus/Quera-knocker/blob/main/university/primeFactors.cpp)                                                |             |
 | 16  | 303       | [Fibonacci sequence](https://github.com/clonerplus/Quera-knocker/blob/main/university/fibonacci_sequence.py)                                      |             |
 | 17  | 304       | [PoweredFunctions](https://github.com/clonerplus/Quera-knocker/blob/main/university/PoweredFunctions.cpp)                                         |             |
-| 18  | 305       | GCD                                                                                                                                               |             |
+| 18  | 305       | [GCD](https://github.com/clonerplus/Quera-knocker/blob/main/university/GCD.cpp)                                                                   |             |
 | 19  | 307       | [Textual machine](https://github.com/clonerplus/Quera-knocker/blob/main/university/TextualMachine.cpp)                                            |             |
 | 20  | 308       | [Heart pun](https://github.com/clonerplus/Quera-knocker/blob/main/university/Anagram.cpp)                                                         |             |
 | 21  | 335       | [Multilayer sum](https://github.com/clonerplus/Quera-knocker/blob/main/university/multilayer_sum.py)                                              |             |
@@ -32,8 +32,8 @@
 | 24  | 367       | [Attack on the far country](https://github.com/clonerplus/Quera-knocker/blob/main/university/raidOnTheFarCountry.py)                              |             |
 | 25  | 368       | [House of a thousand rooms](https://github.com/clonerplus/Quera-knocker/blob/main/university/Thousandroomhouse.py)                                |             |
 | 26  | 397       | [Balanced sequence](https://github.com/clonerplus/Quera-knocker/blob/main/university/balanced_sequence.py)                                        |             |
-| 27  | 588       | Maximum                                                                                                                                           |             |
-| 28  | 589       | Factorial                                                                                                                                         |             |
+| 27  | 588       | [Maximum](https://github.com/clonerplus/Quera-knocker/blob/main/university/Maximum.py)                                                            |             |
+| 28  | 589       | [Factorial](https://github.com/clonerplus/Quera-knocker/blob/main/university/Factorial.py)                                                        |             |
 | 29  | 590       | [GCD and LCM](https://github.com/clonerplus/Quera-knocker/blob/main/university/GCMAndLCMOfNumbers.py)                                             |             |
 | 31  | 591       | [Square print](https://github.com/clonerplus/Quera-knocker/blob/main/university/printSquare.cpp)                                                  |             |
 | 32  | 592       | [Numbers modular arithmetic](https://github.com/clonerplus/Quera-knocker/blob/main/university/numbers_modular_arithmetic.py)                      |             |
@@ -52,16 +52,16 @@
 | 45  | 609       | [Matrix snail](https://github.com/clonerplus/Quera-knocker/blob/main/university/snail_matrix.py)                                                  |             |
 | 46  | 611       | [Magical square](https://github.com/clonerplus/Quera-knocker/blob/main/university/magicSquare.py)                                                 |             |
 | 47  | 615       | [Date of birth](https://github.com/clonerplus/Quera-knocker/blob/main/university/birthDate.py)                                                    |             |
-| 48  | 616       | Power of two                                                                                                                                      |             |
-| 49  | 617       | Self-centered number                                                                                                                              |             |
+| 48  | 616       | [Power of two](https://github.com/clonerplus/Quera-knocker/blob/main/university/powerOfTwo.py)                                                    |             |
+| 49  | 617       | [Self-centered number](https://github.com/clonerplus/Quera-knocker/blob/main/university/self_centered_number.py)                                  |             |
 | 50  | 618       | [Rhombus print](https://github.com/clonerplus/Quera-knocker/blob/main/university/print_diamond.py)                                                |             |
 | 51  | 630       | [String sorting](https://github.com/clonerplus/Quera-knocker/blob/main/university/sorting_strings.py)                                             |             |
 | 52  | 632       | [Reverse search](https://github.com/clonerplus/Quera-knocker/blob/main/university/reversedSearch.py)                                              |             |
 | 53  | 633       | [Calculation of polynomial coefficients](https://github.com/clonerplus/Quera-knocker/blob/main/university/calculate_polynamial's_coefficients.py) |             |
-| 54  | 637       | Sum of numbers                                                                                                                                    |             |
+| 54  | 637       | [Sum of numbers](https://github.com/clonerplus/Quera-knocker/blob/main/university/sumOfNumbers.py)                                                |             |
 | 55  | 638       | [Calculate the series](https://github.com/clonerplus/Quera-knocker/blob/main/university/series_calculus.py)                                       |             |
 | 56  | 639       | [Common sub-string](https://github.com/clonerplus/Quera-knocker/blob/main/university/sharedSubString.cpp)                                         |             |
-| 57  | 640       | laddery                                                                                                                                           |             |
+| 57  | 640       | [laddery](https://github.com/clonerplus/Quera-knocker/blob/main/university/laddery.py)                                                            |             |
 | 58  | 641       | [long journey](https://github.com/clonerplus/Quera-knocker/blob/main/university/longTrip.py)                                                      |             |
 | 59  | 643       | [SigmaGir](https://github.com/clonerplus/Quera-knocker/blob/main/university/sigma_gir.py)                                                         |             |
 | 60  | 647       | [first sight](https://github.com/clonerplus/Quera-knocker/blob/main/university/avalbini.py)                                                       |             |
@@ -75,11 +75,11 @@
 | 68  | 660       | [Celebration of gifts](https://github.com/clonerplus/Quera-knocker/blob/main/university/giftsParty.py)                                            |             |
 | 69  | 9739      | [Enclosed area](https://github.com/clonerplus/Quera-knocker/blob/main/university/surrounded-area.py)                                              |             |
 | 70  | 9741      | [Red black tree](https://github.com/clonerplus/Quera-knocker/blob/main/university/red_black_tree.py)                                              |             |
-| 71  | 9743      | Sudoku                                                                                                                                            |             |
+| 71  | 9743      | [Sudoku](https://github.com/clonerplus/Quera-knocker/blob/main/university/sudoku.cpp)                                                             |             |
 | 72  | 9772      | [Number graph problem](https://github.com/clonerplus/Quera-knocker/blob/main/university/problem_of_numbers_graph.py)                              |             |
 | 73  | 9773      | [Star rhombuses](https://github.com/clonerplus/Quera-knocker/blob/main/university/astral_lozenge.py)                                              |             |
-| 74  | 9774      | Printer number                                                                                                                                    |             |
-| 75  | 11584     | enough questions                                                                                                                                  |             |
+| 74  | 9774      | [Number printer](https://github.com/clonerplus/Quera-knocker/blob/main/university/numberPrinter.py)                                               |             |
+| 75  | 11584     | [enough of a question](https://github.com/clonerplus/Quera-knocker/blob/main/university/BasiPorsesh.java)                                         |             |
 | 76  | 11585     | [Sum of all sub-intervals](https://github.com/clonerplus/Quera-knocker/blob/main/university/sum_of_every_subset.py)                               |             |
 | 77  | 12912     | [All subsets](https://github.com/clonerplus/Quera-knocker/blob/main/university/all_the_subsets.py)                                                |             |
 | 78  | 66858     | [Painting](https://github.com/clonerplus/Quera-knocker/blob/main/university/painting.py)                                                          |             |
